@@ -1,0 +1,215 @@
+/* THEME COLOR PURPLE
+================================================ */
+.header-minbar .sidemenu,
+#headerwrap,
+#footerwrap {
+	background: #662d91;
+	color: #fff;
+}
+#site-logo a,
+#site-description {
+	color: #fff;
+}
+.header-leftpane .sidemenu a,
+.header-leftpane #main-nav a,
+.header-minbar .sidemenu a,
+.header-minbar #main-nav a,
+.header-widget a,
+.footer-text a,
+#main-nav > li > a {
+	color: #c2abd3;
+}
+a {
+	color: #B578E4;
+}
+.post-nav .arrow {
+	color: #4335ab;
+}
+.social-links a,
+.social-widget .rss a {
+	color: #fff;
+}
+input[type=reset],
+input[type=submit],
+button,
+#respond #cancel-comment-reply-link,
+.commentlist .comment-reply-link {
+	background: #662d91;
+	color: #fff;
+	border: none;
+}
+#main-nav > .current_page_item > a, 
+#main-nav > .current-menu-item > a,
+#main-nav > li > a:hover {
+	color: #fff;
+}
+input[type=reset]:hover,
+input[type=submit]:hover,
+button:hover,
+.commentlist .comment-reply-link:hover,
+#respond #cancel-comment-reply-link:hover {
+	background: #000;
+	color: #fff;
+}
+.single-post .post-date,
+.loops-wrapper.list-post .post-date {
+	background: rgba(102, 45, 145, .8);
+	color: #fff;
+}
+.footer-horizontal-left .back-top .arrow-up a,
+.footer-horizontal-right .back-top .arrow-up a,
+.footer-left-col .back-top .arrow-up a,
+.footer-right-col .back-top .arrow-up a {
+	background: #662d91;
+}
+.footer-horizontal-left .back-top .arrow-up:hover a,
+.footer-horizontal-right .back-top .arrow-up:hover a,
+.footer-left-col .back-top .arrow-up:hover a,
+.footer-right-col .back-top .arrow-up:hover a {
+	background: #000;
+}
+/* button */
+.woocommerce #content input.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce #content input.button.alt,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce-page #content input.button.alt,
+.woocommerce-page #respond input#submit.alt,
+.woocommerce-page a.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce-page input.button.alt,
+.woocommerce ul.products li.product .add_to_cart_button,
+.woocommerce-page ul.products li.product .add_to_cart_button,
+.woocommerce #content input.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce #content input.button.alt,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce-page #content input.button.alt,
+.woocommerce-page #respond input#submit.alt,
+.woocommerce-page a.button.alt,
+.woocommerce-page button.button.alt,
+.woocommerce-page input.button.alt,
+.woocommerce ul.products li.product .add_to_cart_button,
+.woocommerce-page ul.products li.product .add_to_cart_button {
+	background: #662d91;
+}
+.woocommerce #content input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce #content input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce-page #content input.button.alt:hover,
+.woocommerce-page #respond input#submit.alt:hover,
+.woocommerce-page a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce-page input.button.alt:hover,
+.woocommerce ul.products li.product .add_to_cart_button:hover,
+.woocommerce-page ul.products li.product .add_to_cart_button:hover,
+.woocommerce #content input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce #content input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce-page #content input.button.alt:hover,
+.woocommerce-page #respond input#submit.alt:hover,
+.woocommerce-page a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce-page input.button.alt:hover,
+.woocommerce ul.products li.product .add_to_cart_button:hover,
+.woocommerce-page ul.products li.product .add_to_cart_button:hover {
+	background: #000;
+}
+.woocommerce span.onsale,
+.woocommerce-page span.onsale,
+.woocommerce ul.products li.product .onsale,
+.woocommerce-page ul.products li.product .onsale,
+.woocommerce span.onsale,
+.woocommerce-page span.onsale,
+.woocommerce ul.products li.product .onsale,
+.woocommerce-page ul.products li.product .onsale {
+	background: #662d91;
+}
+.woocommerce .woocommerce-error,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-message,
+.woocommerce-page .woocommerce-error,
+.woocommerce-page .woocommerce-info,
+.woocommerce-page .woocommerce-message {
+	border-top-color: #662d91;
+}
+.woocommerce-checkout #payment div.payment_box {
+	background: #662d91;
+	color: #f4f4f4;
+}
+.woocommerce-checkout #payment div.payment_box:after {
+	border-bottom-color: #662d91;
+}
+.woocommerce #content nav.woocommerce-pagination ul li a:focus,
+.woocommerce #content nav.woocommerce-pagination ul li a:hover,
+.woocommerce #content nav.woocommerce-pagination ul li span.current,
+.woocommerce nav.woocommerce-pagination ul li a:focus,
+.woocommerce nav.woocommerce-pagination ul li a:hover,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
+.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,
+.woocommerce-page #content nav.woocommerce-pagination ul li span.current,
+.woocommerce-page nav.woocommerce-pagination ul li a:focus,
+.woocommerce-page nav.woocommerce-pagination ul li a:hover,
+.woocommerce-page nav.woocommerce-pagination ul li span.current {
+	background: #662d91;
+}
+.woocommerce #content table.cart a.remove:hover,
+.woocommerce table.cart a.remove:hover,
+.woocommerce-page #content table.cart a.remove:hover,
+.woocommerce-page table.cart a.remove:hover {
+	background: #662d91;
+}
+.transparent-header #headerwrap.fixed-header,
+#headerwrap.fixed-header {
+	background: rgba(102, 45, 145, .9);
+}
+.pull-down:before {
+	border-color: #662d91;
+}
